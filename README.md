@@ -1,4 +1,4 @@
-App in docker, which read messages from kafka's topic splited ";" and write some data in hbase table via thrift server. 
+App in docker which reads messages from kafka's topic splited ";" and writes some data in hbase table via thrift server. 
 Reqired running hbase thrift server.
 
 Build & run:
